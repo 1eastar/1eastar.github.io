@@ -21,58 +21,71 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH
 
 ## Publications
 
+<sup>‡</sup> indicates equal contribution.
+
 ### 2024
 
 Evaluating Robustness of Reward Models for Mathematical Reasoning
 
-Sunghwan Kim‡, <u>**Dongjin Kang**</u>‡, Taeyoon Kwon, Hyungjoo Chae, Jungsoo Won, Dongha Lee, Jinyoung Yeo
+<p style="font-size:12px;">
+Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Taeyoon Kwon, Hyungjoo Chae, Jungsoo Won, Dongha Lee, Jinyoung Yeo
 
 Arxiv preprint.
 
 [\[paper\]](https://arxiv.org/abs/2410.01729)   [\[code\]](https://github.com/kimsh0507/RewardMATH_official)
-
+</p>
 ___
 Coffee-gym: An environment for evaluating and improving natural language feedback on erroneous code
 
-Hyungjoo Chae‡, Taeyoon Kwon‡, Seungjun Moon‡, Yongho Song, <u>**Dongjin Kang**</u>, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo
+<p style="font-size:12px;">
+Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon<sup>‡</sup>, Seungjun Moon<sup>‡</sup>, Yongho Song, <u style="font-weight:bold;">Dongjin Kang</u>, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo
 
 EMNLP'24: The 2024 Conference on Empirical Methods in Natural Language Processing. 2024
 
 [\[paper\]](https://arxiv.org/abs/2409.19715)   [\[demo\]](https://huggingface.co/spaces/Coffee-Gym/Project-Coffee-Gym)
+</p>
 
 ___
 Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory
 
-Suyeon Lee†, Sunghwan Kim†, Minju Kim†, **Dongjin Kang**, Dongil Yang, Harim Kim, Minseok Kang, Dayi Jung, Min Hee Kim, Seungbeen Lee, Kyoung-Mee Chung, Youngjae Yu, Dongha Lee, Jinyoung Yeo
+<p style="font-size:12px;">
+Suyeon Lee†, Sunghwan Kim†, Minju Kim†, <u style="font-weight:bold;">Dongjin Kang</u>, Dongil Yang, Harim Kim, Minseok Kang, Dayi Jung, Min Hee Kim, Seungbeen Lee, Kyoung-Mee Chung, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
 EMNLP'24 findings: The 2024 Conference on Empirical Methods in Natural Language Processing. 2024
 
 [\[paper\]](https://arxiv.org/abs/2407.03103)
+</p>
 
 ___
 Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation
 
-**Dongjin Kang**‡, Sunghwan Kim‡, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
+<p style="font-size:12px;">
+<u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
 **[Outstanding Paper Award]** ACL'24: The 62nd Annual Meeting of the Association for Computational Linguistics. 2024
 
 [\[paper\]](https://arxiv.org/abs/2402.13211)   [\[code\]](https://github.com/1eastar/emotionalsupport)
+</p>
 
 ___
 Coffee: Boost your code llms by fixing bugs with feedback
 
-Seungjun Moon‡, Yongho Song‡, Hyungjoo Chae‡, Taeyoon Kwon, **Dongjin Kang**, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo
+<p style="font-size:12px;">
+Seungjun Moon<sup>‡</sup>, Yongho Song<sup>‡</sup>, Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon, <u style="font-weight:bold;">Dongjin Kang</u>, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo
 
 Arxiv Preprint
 
 [\[paper\]](https://arxiv.org/abs/2311.07215)   [\[demo\]](https://kyle8581.github.io/COFFEE-DEMO)
+</p>
 
 ___
 Large language models are clinical reasoners: Reasoning-aware diagnosis framework with prompt-generated rationales
 
-Taeyoon Kwon‡, Kai Tzu-iunn Ong‡, **Dongjin Kang**, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo
+<p style="font-size:12px;">
+Taeyoon Kwon<sup>‡</sup>, Kai Tzu-iunn Ong<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u>, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo
 
 AAAI'24: The 38th Annual AAAI Conference on Artificial Intelligence. 2024.
 
 [\[paper\]](https://arxiv.org/abs/2312.07399)
+</p>
 
