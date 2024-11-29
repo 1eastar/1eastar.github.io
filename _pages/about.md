@@ -32,7 +32,7 @@ Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>�
 
 Arxiv preprint.
 
-[\[paper\]](https://arxiv.org/abs/2410.01729)   [\[code\]](https://github.com/kimsh0507/RewardMATH_official)
+<a href="https://arxiv.org/abs/2410.01729" target="_blank">[paper]</a>   <a href="https://github.com/kimsh0507/RewardMATH_official" target="_blank">[code]</a>
 </p>
 ___
 Coffee-gym: An environment for evaluating and improving natural language feedback on erroneous code
@@ -42,7 +42,7 @@ Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon<sup>‡</sup>, Seungjun Moon<sup>‡</
 
 EMNLP'24: The 2024 Conference on Empirical Methods in Natural Language Processing. 2024
 
-[\[paper\]](https://arxiv.org/abs/2409.19715)   [\[demo\]](https://huggingface.co/spaces/Coffee-Gym/Project-Coffee-Gym)
+<a href="https://arxiv.org/abs/2409.19715" target="_blank">[paper]</a>  <a href="https://huggingface.co/spaces/Coffee-Gym/Project-Coffee-Gym" target="_blank">[demo]</a>
 </p>
 
 ___
