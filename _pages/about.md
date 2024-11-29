@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 <p style="font-size:14px;">
-Hi! I am a M.S. student at [DLI Lab](https://diyonsei.notion.site/) advised by [Jinyoung Yeo](https://jinyeo.weebly.com/). Previously, I received B.S. in Computer Science from Yonsei University in Feb. 2024.
-
+Hi! I am a M.S. student at <a href="https://diyonsei.notion.site/" target="_blank">DLI Lab</a> advised by <a href="https://jinyeo.weebly.com/" target="_blank">Jinyoung Yeo</a>. Previously, I received B.S. in Computer Science from Yonsei University in Feb. 2024.
+<br/><br/>
 My recent research interests include: (i) Reasoning and Planning to solve long-horizon tasks and (ii) Embodied AI with a strong understanding of real-world dynamics. Additionally, I focus on analyzing language models (LMs) to identify limitations and room for improvement. The ultimate goal of my research is to design systems that enable humans to communicate and interact with AI in a trustworthy and beneficial manner.
-
+<br/><br/>
 Topics of interest
-
-Reasoning and Planning: Think-and-Execute, RewardMATH
-Embodied AI:
-Analysis of LMs: Preference Bias, Cactus, RewardMATH
+<br/><br/>
+Reasoning and Planning: Think-and-Execute, RewardMATH<br/>
+Embodied AI:<br/>
+Analysis of LMs: Preference Bias, Cactus, RewardMATH<br/>
 </p>
 
 
@@ -27,7 +27,7 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH
 </p>
 
 ### 2024
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Evaluating Robustness of Reward Models for Mathematical Reasoning
 </p>
 
@@ -39,7 +39,7 @@ Arxiv preprint.
 <a href="https://arxiv.org/abs/2410.01729" target="_blank">[paper]</a>   <a href="https://github.com/kimsh0507/RewardMATH_official" target="_blank">[code]</a>
 </p>
 ___
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Coffee-gym: An environment for evaluating and improving natural language feedback on erroneous code
 </p>
 
@@ -52,7 +52,7 @@ EMNLP'24: The 2024 Conference on Empirical Methods in Natural Language Processin
 </p>
 
 ___
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory
 </p>
 
@@ -66,7 +66,7 @@ EMNLP'24 findings: The 2024 Conference on Empirical Methods in Natural Language 
 </p>
 
 ___
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation
 </p>
 
@@ -74,13 +74,13 @@ Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bia
 <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
 <br/><br/>
-**[Outstanding Paper Award]** ACL'24: The 62nd Annual Meeting of the Association for Computational Linguistics. 2024
+<u style="font-weight:bold;">[Outstanding Paper Award]</u> ACL'24: The 62nd Annual Meeting of the Association for Computational Linguistics. 2024
 <br/>
 <a href="https://arxiv.org/abs/2402.13211" target="_blank">[paper]</a>    <a href="https://github.com/1eastar/emotionalsupport" target="_blank">[code]</a>
 </p>
 
 ___
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Coffee: Boost your code llms by fixing bugs with feedback
 </p>
 
@@ -93,7 +93,7 @@ Arxiv Preprint
 </p>
 
 ___
-<p style="font-size:14px;">
+<p style="font-size:15px;">
 Large language models are clinical reasoners: Reasoning-aware diagnosis framework with prompt-generated rationales
 </p>
 
