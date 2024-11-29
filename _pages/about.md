@@ -57,7 +57,7 @@ Cactus: Towards Psychological Counseling Conversations using Cognitive Behaviora
 </p>
 
 <p style="font-size:12px;">
-Suyeon Lee†, Sunghwan Kim†, Minju Kim†, <u style="font-weight:bold;">Dongjin Kang</u>, Dongil Yang, Harim Kim, Minseok Kang, Dayi Jung, Min Hee Kim, Seungbeen Lee, Kyoung-Mee Chung, Youngjae Yu, Dongha Lee, Jinyoung Yeo
+Suyeon Lee<sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Minju Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u>, Dongil Yang, Harim Kim, Minseok Kang, Dayi Jung, Min Hee Kim, Seungbeen Lee, Kyoung-Mee Chung, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
 <br/><br/>
 EMNLP'24 findings: The 2024 Conference on Empirical Methods in Natural Language Processing. 2024
