@@ -27,7 +27,7 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH<br/>
 </p>
 
 ### 2024
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Evaluating Robustness of Reward Models for Mathematical Reasoning
 </p>
 
@@ -39,7 +39,7 @@ Arxiv preprint.
 <a href="https://arxiv.org/abs/2410.01729" target="_blank">[paper]</a>   <a href="https://github.com/kimsh0507/RewardMATH_official" target="_blank">[code]</a>
 </p>
 ___
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Coffee-gym: An environment for evaluating and improving natural language feedback on erroneous code
 </p>
 
@@ -52,7 +52,7 @@ EMNLP'24: The 2024 Conference on Empirical Methods in Natural Language Processin
 </p>
 
 ___
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory
 </p>
 
@@ -66,7 +66,7 @@ EMNLP'24 findings: The 2024 Conference on Empirical Methods in Natural Language 
 </p>
 
 ___
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation
 </p>
 
@@ -80,7 +80,7 @@ Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bia
 </p>
 
 ___
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Coffee: Boost your code llms by fixing bugs with feedback
 </p>
 
@@ -93,7 +93,7 @@ Arxiv Preprint
 </p>
 
 ___
-<p style="font-size:15px;">
+<p style="font-size:15px; margin-bottom: 0.3em;">
 Large language models are clinical reasoners: Reasoning-aware diagnosis framework with prompt-generated rationales
 </p>
 
