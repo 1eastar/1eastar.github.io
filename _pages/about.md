@@ -61,7 +61,7 @@ ___
 <p style="font-size:12px;">
   Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Taeyoon Kwon, Hyungjoo Chae, Dongha Lee, Jinyoung Yeo
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   ACL 2025 main
   </p>
 </p>
@@ -75,7 +75,7 @@ ___
 <p style="font-size:12px;">
   Hyungjoo Chae<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Jihyuk Kim, Beong-woo Kwak, Sunghyun Park, Haeju Park, Jinyoung Yeo, Moontae Lee, Kyungjae Lee
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   ACL 2024 Industry
   </p>
 </p>
@@ -94,7 +94,7 @@ ___
   Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Taeyoon Kwon, Hyungjoo Chae, Jungsoo Won, Dongha Lee, Jinyoung Yeo
   <br/><br/>
 
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   Arxiv preprint.
   </p>
 </p>
@@ -108,7 +108,7 @@ ___
 <p style="font-size:12px;">
   Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon<sup>‡</sup>, Seungjun Moon<sup>‡</sup>, Yongho Song, <u style="font-weight:bold;">Dongjin Kang</u>, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   EMNLP 2024 main
   </p>
 </p>
@@ -124,7 +124,7 @@ ___
   Suyeon Lee<sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Minju Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u>, Dongil Yang, Harim Kim, Minseok Kang, Dayi Jung, Min Hee Kim, Seungbeen Lee, Kyoung-Mee Chung, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   EMNLP 2024 findings
   </p>
 </p>
@@ -141,8 +141,8 @@ ___
   <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
 
   <br/><br/>
-  <p style="font-size: 14px;">
-  <p style="font-weight:900; color: #ea3800">[Outstanding Paper Award]</p> ACL 2024 main
+  <p style="font-size: 13px;">
+  <span style="font-weight:900; color: #ea3800">[Outstanding Paper Award]</span> ACL 2024 main
   </p>
 </p>
 
@@ -156,7 +156,7 @@ ___
 <p style="font-size:12px;">
   Seungjun Moon<sup>‡</sup>, Yongho Song<sup>‡</sup>, Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon, <u style="font-weight:bold;">Dongjin Kang</u>, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   Arxiv Preprint
   </p>
 </p>
@@ -171,7 +171,7 @@ ___
 <p style="font-size:12px;">
   Taeyoon Kwon<sup>‡</sup>, Kai Tzu-iunn Ong<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u>, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo
   <br/><br/>
-  <p style="font-size: 14px;">
+  <p style="font-size: 13px;">
   AAAI 2024
   </p>
 </p>
