@@ -34,7 +34,11 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH<br/>
 </p>
 
 <p style="font-size:12px;">
-Hyungjoo Chae<sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, <u style="font-weight:bold;">Dongjin Kang</u>, Jinyoung Yeo
+  Hyungjoo Chae<sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, <u style="font-weight:bold;">Dongjin Kang</u>, Jinyoung Yeo
+  <br/><br/>
+  <p style="font-size: 13px;">
+  Under Review at NeurIPS 2025
+  </p>
 </p>
 
 ___
@@ -45,7 +49,11 @@ ___
 </p>
 
 <p style="font-size:12px;">
-Beong-woo Kwak, Minju Kim, Dongha Lim, Hyungjoo Chae, <u style="font-weight:bold;">Dongjin Kang</u>, Sunghwan Kim, Dongil Yang, Jinyoung Yeo
+  Beong-woo Kwak, Minju Kim, Dongha Lim, Hyungjoo Chae, <u style="font-weight:bold;">Dongjin Kang</u>, Sunghwan Kim, Dongil Yang, Jinyoung Yeo
+  <br/><br/>
+  <p style="font-size: 13px;">
+  Under Review at EMNLP 2025
+  </p>
 </p>
 
 ___
