@@ -21,14 +21,11 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH<br/>
 
 
 ## Recent News
+- <p style="font-size:15px;">[2025.05] Two papers are accepted at ACL 2025! See you in Vienna 🇦🇹</p>
 
-<p style="font-size:15px;">
+- <p style="font-size:15px;">[2024.08] 🏆 Our paper won the <a href="https://2024.aclweb.org/program/best_papers/" target="_blank" style="font-weight: 700">Outstanding Paper Award</a> at ACL 2024!</p>
 
-- [2025.05] Two papers are accepted at ACL 2025! See you in Vienna 🇦🇹
-
-- [2024.08] 🏆 Our paper won the <a href="https://2024.aclweb.org/program/best_papers/" target="_blank" style="font-weight: 700">Outstanding Paper Award</a> at ACL 2024!
-
-- [2024.07] I am <span style="font-weight: 700">joining LG AI Research (Advanced ML Lab)</span> as an research intern. mentors: Kyungjae Lee, Moontae Lee
+- <p style="font-size:15px;">[2024.07] I am <span style="font-weight: 700">joining LG AI Research (Advanced ML Lab)</span> as an research intern. mentors: Kyungjae Lee, Moontae Lee</p>
 </p>
 
 
