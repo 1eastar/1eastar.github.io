@@ -51,7 +51,7 @@ Analysis of LMs: Preference Bias, Cactus, RewardMATH<br/>
 
 ___
 <p style="font-size:15px; margin-bottom: 0.3em;">
-  <a href="https://1eastar.github.io" target="_blank" style="text-decoration:none;">
+  <a href="https://arxiv.org/abs/2505.23662" target="_blank" style="text-decoration:none;">
   ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions
   </a>
 </p>
@@ -83,7 +83,7 @@ ___
 </p>
 ___
 <p style="font-size:15px; margin-bottom: 0.3em;">
-  <a href="https://1eastar.github.io" target="_blank" style="text-decoration:none;">
+  <a href="https://arxiv.org/abs/2506.02338" target="_blank" style="text-decoration:none;">
   One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL
   </a>
 </p>
