@@ -78,7 +78,7 @@ ___
   Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Taeyoon Kwon, Hyungjoo Chae, Dongha Lee, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  ACL 2025 main
+  ACL 2025 main (Oral)
   </p>
 </p>
 ___
