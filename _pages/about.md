@@ -10,7 +10,7 @@ redirect_from:
 <p style="font-size:14px;">
 Hi! I am a M.S. student at <a href="https://langlab.yonsei.ac.kr" target="_blank">LangAGI Lab</a> advised by <a href="https://jinyeo.weebly.com/" target="_blank">Jinyoung Yeo</a>. Previously, I received B.S. in Computer Science from Yonsei University in Feb. 2024.
 <br/><br/>
-My research goal is to enable digital agents to interact with their environments and master increasingly complex, long-horizon tasks. I am currently focused on: (i) Reinforcement Learning (RL)---especially exploration strategies that expand the reasoning boundaries of foundational models and the design of effective reward signals for policy learning, and (ii) tackling the problem of overthinking in models---whether by enabling them to recognize their own errors to mitigate overconfidence or by encouraging reasoning within latent spaces. Additionally, I concentrate on interpretability in language models, identifying opportunities for improvement and using those insights to enhance model performance.
+My research goal is to enable digital agents to interact with their environments and master increasingly complex, long-horizon tasks. I am currently focused on: (i) Reinforcement Learning (RL)&mdash;especially exploration strategies that expand the reasoning boundaries of foundational models and the design of effective reward signals for policy learning, and (ii) Tackling the Problem of Overthinking in Models&mdash;whether by enabling them to recognize their own errors to mitigate overconfidence or by encouraging reasoning within latent spaces. Additionally, I concentrate on interpretability in language models, identifying opportunities for improvement and using those insights to enhance model performance.
 
 <br/><br/>
 </p>
