@@ -31,6 +31,12 @@ My research goal is to enable digital agents to interact with their environments
 </p>
 
 ### Under-review/Preprints
+
+___
+
+
+### 2025
+
 <p style="font-size:15px; margin-bottom: 0.3em;">
   <a href="https://arxiv.org/abs/2505.15277" target="_blank" style="text-decoration:none;">
   Web-Shepherd: Advancing PRMs for Reinforcing Web Agents
@@ -41,7 +47,7 @@ My research goal is to enable digital agents to interact with their environments
   Hyungjoo Chae<sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, <u style="font-weight:bold;">Dongjin Kang</u>, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  Under Review at NeurIPS 2025
+  NeurIPS 2025 (Spotlight)
   </p>
 </p>
 
@@ -56,14 +62,10 @@ ___
   Beong-woo Kwak, Minju Kim, Dongha Lim, Hyungjoo Chae, <u style="font-weight:bold;">Dongjin Kang</u>, Sunghwan Kim, Dongil Yang, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  Under Review at EMNLP 2025
+  EMNLP 2025 findings
   </p>
 </p>
-
 ___
-
-
-### 2025
 <p style="font-size:15px; margin-bottom: 0.3em;">
   <a href="https://arxiv.org/abs/2505.12763" target="_blank" style="text-decoration:none;">
   Rethinking Reward Model Evaluation Through the Lens of Reward Overoptimization
