@@ -30,10 +30,6 @@ My research goal is to enable digital agents to interact with their environments
 <sup>‡</sup> indicates equal contribution.
 </p>
 
-### Under-review/Preprints
-
-___
-
 
 ### 2025
 
