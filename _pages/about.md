@@ -184,3 +184,39 @@ ___
   </p>
 </p>
 
+
+
+## Vitae
+
+### Industrial Experience
+
+- <strong>LG AI Research</strong> <span style="float:right;">Aug 2024 – Apr 2025</span><br/>
+  One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL<br/>
+  <em>Advisors: Moontae Lee, Kyungjae Lee</em>
+
+- <strong>Lingora, Market Designers Inc.</strong> <span style="float:right;">Apr 2024 – Jul 2024</span><br/>
+  Build/Optimize an AI English tutor for learners<br/>
+  <em>Advisor: Prof. Jinyoung Yeo</em>
+
+- <strong>Bagstrap, Outstanders Inc.</strong> <span style="float:right;">Oct 2022 – Jun 2023</span><br/>
+  Front-end Engineer
+
+- <strong>Channel Talk</strong> <span style="float:right;">Aug 2020 – Jan 2021</span><br/>
+  Software Engineer (Web Front-end)
+
+- <strong>Our Local Petition Inc.</strong> <span style="float:right;">Feb 2020 – Aug 2020</span><br/>
+  Developed the company webpage using React.js and Java Spring<br/>
+  <em>Collaborated with Prof. Lee (Department of Political Science)</em>
+
+<br/>
+
+### Education
+
+- <strong>Yonsei University</strong>, Seoul, South Korea <span style="float:right;">2024 – 2025</span><br/>
+  M.S. in Computer Science<br/>
+  <em>Advisor: Prof. Jinyoung Yeo</em><br/>
+  <em>Thesis: Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation</em>
+
+- <strong>Yonsei University</strong>, Seoul, South Korea <span style="float:right;">2017 – 2023</span><br/>
+  B.S. in Computer Science<br/>
+  <em>Graduation Project: Emotional Support Conversation on Large Language Models</em>
