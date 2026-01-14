@@ -192,24 +192,24 @@ ___
 
 ## Industrial Experience
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">LG AI Research</strong> <span style="float:right;font-weight:300;font-size:14px;">Aug 2024 – Apr 2025</span><br/>
   One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL<br/>
   <em>Mentors: Moontae Lee, Kyungjae Lee</em>
 </p>
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">Lingora, Market Designers Inc.</strong> <span style="float:right;font-weight:300;font-size:14px;">Apr 2024 – Jul 2024</span><br/>
   Build/Optimize an AI English tutor for learners<br/>
   <em>Advisor: Prof. Jinyoung Yeo</em>
 </p>
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">Bagstrap, Outstanders Inc.</strong> <span style="float:right;font-weight:300;font-size:14px;">Oct 2022 – Jun 2023</span><br/>
   Front-end Engineer
 </p>
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">Channel Talk</strong> <span style="float:right;font-weight:300;font-size:14px;">Aug 2020 – Jan 2021</span><br/>
   Software Engineer (Web Front-end)
 </p>
@@ -218,13 +218,13 @@ ___
 
 ## Education
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">Yonsei University</strong>, Seoul, South Korea <span style="float:right;font-weight:300;font-size:14px;">2024 – 2025</span><br/>
   M.S. in Computer Science (Advisor: Prof. Jinyoung Yeo)<br/>
   <!-- <em>Thesis: Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation</em> -->
 </p>
 
-<p style="font-size:13px; margin-bottom: 0.3em;">
+<p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">Yonsei University</strong>, Seoul, South Korea <span style="float:right;font-weight:300;font-size:14px;">2017 – 2023</span><br/>
   B.S. in Computer Science<br/>
   <!-- <em>Graduation Project: Emotional Support Conversation on Large Language Models</em> -->
