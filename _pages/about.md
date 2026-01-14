@@ -17,11 +17,15 @@ My research goal is to enable digital agents to interact with their environments
 
 
 ## Recent News
-- <p style="font-size:15px;">[2025.05] Two papers are accepted at ACL 2025! See you in Vienna 🇦🇹</p>
+\> <p style="font-size:15px;margin-bottom:12px;">[2025.09] Our <span style="font-weight:600;">“Web-Sheperd”</span> on the Process Reward Model of Web Agent got accepted to <span style="font-weight:600;">NeurIPS 2025 Spotlight</span>.</p>
 
-- <p style="font-size:15px;">[2024.08] 🏆 Our paper won the <a href="https://2024.aclweb.org/program/best_papers/" target="_blank" style="font-weight: 700">Outstanding Paper Award</a> at ACL 2024!</p>
+\> <p style="font-size:15px;margin-bottom:12px;">[2025.08] Our <span style="font-weight:600;">"ToolHaystack"</span> on the Long-term Interaction of Tool-augmented Language Models is accepted to <span style="font-weight:600;">EMNLP 2025</span>.</p>
 
-- <p style="font-size:15px;">[2024.07] I am <span style="font-weight: 700">joining LG AI Research (Advanced ML Lab)</span> as an research intern. mentors: Kyungjae Lee, Moontae Lee</p>
+\> <p style="font-size:15px;margin-bottom:12px;">[2025.05] Two papers about Long CoT and Reward Overoptimization have been accepted at <span style="font-weight:600;">ACL 2025</span>! See you in Vienna 🇦🇹</p>
+
+\> <p style="font-size:15px;margin-bottom:12px;">[2024.08] 🏆 Our paper won the <a href="https://2024.aclweb.org/program/best_papers/" target="_blank" style="font-weight: 700">Outstanding Paper Award</a> at ACL 2024!</p>
+
+- <p style="font-size:15px;margin-bottom:12px;">[2024.07] I am <span style="font-weight: 600">joining LG AI Research (Advanced ML Lab)</span> as an research intern. mentors: Kyungjae Lee, Moontae Lee</p>
 
 
 ## Publications
@@ -186,37 +190,30 @@ ___
 
 
 
-## Vitae
+## Industrial Experience
 
-### Industrial Experience
+<strong style="font-size:15px;">LG AI Research</strong> <span style="float:right;font-weight:300;font-size:14px;">Aug 2024 – Apr 2025</span><br/>
+  <p style="font-size:13px;">One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL</p><br/>
+  <em>Mentors: Moontae Lee, Kyungjae Lee</em>
 
-- <strong>LG AI Research</strong> <span style="float:right;">Aug 2024 – Apr 2025</span><br/>
-  One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL<br/>
-  <em>Advisors: Moontae Lee, Kyungjae Lee</em>
-
-- <strong>Lingora, Market Designers Inc.</strong> <span style="float:right;">Apr 2024 – Jul 2024</span><br/>
-  Build/Optimize an AI English tutor for learners<br/>
+<strong style="font-size:15px;">Lingora, Market Designers Inc.</strong> <span style="float:right;font-weight:300;font-size:14px;">Apr 2024 – Jul 2024</span><br/>
+  <p style="font-size:13px;">Build/Optimize an AI English tutor for learners</p><br/>
   <em>Advisor: Prof. Jinyoung Yeo</em>
 
-- <strong>Bagstrap, Outstanders Inc.</strong> <span style="float:right;">Oct 2022 – Jun 2023</span><br/>
-  Front-end Engineer
+<strong style="font-size:15px;">Bagstrap, Outstanders Inc.</strong> <span style="float:right;font-weight:300;font-size:14px;">Oct 2022 – Jun 2023</span><br/>
+  <p style="font-size:13px;">Front-end Engineer</p>
 
-- <strong>Channel Talk</strong> <span style="float:right;">Aug 2020 – Jan 2021</span><br/>
-  Software Engineer (Web Front-end)
-
-- <strong>Our Local Petition Inc.</strong> <span style="float:right;">Feb 2020 – Aug 2020</span><br/>
-  Developed the company webpage using React.js and Java Spring<br/>
-  <em>Collaborated with Prof. Lee (Department of Political Science)</em>
+<strong style="font-size:15px;">Channel Talk</strong> <span style="float:right;font-weight:300;font-size:14px;">Aug 2020 – Jan 2021</span><br/>
+  <p style="font-size:13px;">Software Engineer (Web Front-end)</p>
 
 <br/>
 
-### Education
+## Education
 
-- <strong>Yonsei University</strong>, Seoul, South Korea <span style="float:right;">2024 – 2025</span><br/>
-  M.S. in Computer Science<br/>
-  <em>Advisor: Prof. Jinyoung Yeo</em><br/>
-  <em>Thesis: Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation</em>
+<strong style="font-size:15px;">Yonsei University</strong>, Seoul, South Korea <span style="float:right;font-weight:300;font-size:14px;">2024 – 2025</span><br/>
+  <p style="font-size:13px;">M.S. in Computer Science (Advisor: Prof. Jinyoung Yeo)</p><br/>
+  <!-- <em>Thesis: Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation</em> -->
 
-- <strong>Yonsei University</strong>, Seoul, South Korea <span style="float:right;">2017 – 2023</span><br/>
-  B.S. in Computer Science<br/>
-  <em>Graduation Project: Emotional Support Conversation on Large Language Models</em>
+<strong style="font-size:15px;">Yonsei University</strong>, Seoul, South Korea <span style="float:right;font-weight:300;font-size:14px;">2017 – 2023</span><br/>
+  <p style="font-size:13px;">B.S. in Computer Science</p><br/>
+  <!-- <em>Graduation Project: Emotional Support Conversation on Large Language Models</em> -->
