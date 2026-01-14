@@ -194,7 +194,8 @@ ___
 
 <p style="font-size:13px; margin-bottom: 1em;">
   <strong style="font-size:15px;">LG AI Research</strong> <span style="float:right;font-weight:300;font-size:14px;">Aug 2024 – Apr 2025</span><br/>
-  One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL<br/>
+  Research Intern
+  > One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL<br/>
   <em>Mentors: Moontae Lee, Kyungjae Lee</em>
 </p>
 
