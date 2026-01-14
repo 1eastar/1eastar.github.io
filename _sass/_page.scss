@@ -50,6 +50,10 @@
 
 .page__content {
 
+  ul {
+    padding-inline-start: 20px;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
