@@ -76,7 +76,7 @@ ___
   Sunghwan Kim<sup>‡</sup>, <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Taeyoon Kwon, Hyungjoo Chae, Dongha Lee, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  ACL 2025 main (Oral)
+  ACL 2025 (Oral)
   </p>
 </p>
 ___
@@ -123,7 +123,7 @@ ___
   Hyungjoo Chae<sup>‡</sup>, Taeyoon Kwon<sup>‡</sup>, Seungjun Moon<sup>‡</sup>, Yongho Song, <u style="font-weight:bold;">Dongjin Kang</u>, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  EMNLP 2024 main
+  EMNLP 2024
   </p>
 </p>
 
@@ -154,7 +154,7 @@ ___
   <u style="font-weight:bold;">Dongjin Kang</u><sup>‡</sup>, Sunghwan Kim<sup>‡</sup>, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
   <br/>
   <p style="font-size: 13px;">
-  <span style="font-weight:900; color: #ea3800">[Outstanding Paper Award]</span> ACL 2024 main
+  <span style="font-weight:900; color: #ea3800">[Outstanding Paper Award]</span> ACL 2024
   </p>
 </p>
 
@@ -188,6 +188,8 @@ ___
   </p>
 </p>
 
+
+<br/>
 
 
 ## Industrial Experience
